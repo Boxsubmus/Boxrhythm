@@ -1,0 +1,17 @@
+{
+  "name": "com.boxsubmus.boxrhythm",
+  "version": "1.2.3",
+  "displayName": "Boxrhythm",
+  "description": "Unity Rhythm Game Engine",
+  "unity": "2022.1",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "author": {
+    "name": "Boxsubmus",
+    "email": "boxsubmus@gmail.com",
+    "url": "https://www.boxsubmus.com"
+  },
+  "type": "library"
+}

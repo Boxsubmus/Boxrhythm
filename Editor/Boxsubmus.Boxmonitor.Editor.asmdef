@@ -1,0 +1,18 @@
+{
+    "name": "Boxsubmus.Boxrhythm.Editor",
+    "rootNamespace": "Boxsubmus.Boxrhythm.Editor",
+    "references": [
+        "Boxsubmus.Boxrhythm"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
